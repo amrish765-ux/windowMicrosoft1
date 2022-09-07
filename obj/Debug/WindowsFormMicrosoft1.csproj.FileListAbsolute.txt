@@ -1,0 +1,13 @@
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\bin\Debug\WindowsFormMicrosoft1.exe.config
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\bin\Debug\WindowsFormMicrosoft1.exe
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\bin\Debug\WindowsFormMicrosoft1.pdb
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\obj\Debug\WindowsFormMicrosoft1.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\obj\Debug\WindowsFormMicrosoft1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\obj\Debug\WindowsFormMicrosoft1.Properties.Resources.resources
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\obj\Debug\WindowsFormMicrosoft1.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\obj\Debug\WindowsFormMicrosoft1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\obj\Debug\WindowsFormMicrosoft1.exe
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\obj\Debug\WindowsFormMicrosoft1.pdb
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\obj\Debug\WindowsFormMicrosoft1.Navigation.resources
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\obj\Debug\WindowsFormMicrosoft1.Newcustomer.resources
+C:\Users\Hp\Desktop\CGI\WindowsFormMicrosoft1\WindowsFormMicrosoft1\obj\Debug\WindowsFormMicrosoft1.FillorCancel.resources
